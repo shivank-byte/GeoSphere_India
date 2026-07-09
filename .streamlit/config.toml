@@ -1,4 +1,4 @@
-theme]
+[theme]
 base = "dark"
 primaryColor = "#c9a84c"
 backgroundColor = "#0a1232"
@@ -9,6 +9,7 @@ font = "sans serif"
 [client]
 toolbarMode = "auto"
 showErrorDetails = true
+showSidebarNavigation = false
 
 [server]
 enableCORS = false
