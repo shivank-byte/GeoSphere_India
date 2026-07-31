@@ -26,6 +26,7 @@ st.set_page_config(
 init_session_state()
 inject_css()
 
+st.html('<meta name="google-site-verification" content="RD2hE7UktXvrymU3gEXFi5m_iyIC9ocBtUQDz1UF7Xk" />')
 
 # JavaScript: actively find and style the sidebar toggle regardless of Streamlit version
 st.markdown("""
