@@ -14,4 +14,3 @@ showSidebarNavigation = false
 [server]
 enableCORS = false
 enableXsrfProtection = true
-enableStaticServing = true
